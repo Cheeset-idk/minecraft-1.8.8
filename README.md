@@ -1,3 +1,1 @@
-Minecraft Java edition 1.8.8 playable on Chromebook, Mac, and Windows.
-
-The multiplayer function was made possible thanks to lax1dude and ayunami2000.
+Hi, this is a VERY near copy to original, credit goes to SOMEONE ELSE (not saying who due to what it might do on Chromebooks, if ykyk, but the original shouldn't be too hard to find). Haven't tried but pretty sure that you should be able to install the most recent version by installing to boot menu? not sure but offline files won't work, unless your school has Java scripts allowed for html files.
